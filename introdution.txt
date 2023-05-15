@@ -1,3 +1,5 @@
 nama : ratri pramudita
 nim : v3922038
-kelas : ti e
+class : ti e
+hobby : olahraga
+gender : female
